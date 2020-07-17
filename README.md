@@ -10,3 +10,6 @@ I recommended to use your own apikey.
 * Swift closures and completion handlers.
 * URLSession to network and make HTTP requests.
 * Parse JSON with the native Encodable and Decodable protocols. 
+
+![alt text](https://github.com/yasarkorkmaz/Covid-Live-Data/blob/master/ru.png?raw=true)  ![alt text](https://github.com/yasarkorkmaz/Covid-Live-Data/blob/master/tr.png?raw=true)
+
