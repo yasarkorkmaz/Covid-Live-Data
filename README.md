@@ -1,7 +1,7 @@
 # Covid Live Data
 A basic application for Covid-19 live status to learn how to get live data from API services.
 
-I recommended to use your own apikey.
+I recommend to use your own apikey.
 
 ## What can be seen in this app;
 * Delegate pattern.
